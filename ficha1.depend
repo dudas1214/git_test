@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1791905667 source:c:\users\dudas\documents\comp grafica\ficha1\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Forma.h"
+
+1791891042 c:\users\dudas\documents\comp grafica\ficha1\forma.h
+
+1791852582 source:c:\users\dudas\documents\comp grafica\ficha1\forma.c
+	<GL/glut.h>
+	<stdlib.h>
+	"Forma.h"
+
+1791914283 source:c:\users\26938\documents\t1-g28-main\forma.c
+	<GL/glut.h>
+	<stdlib.h>
+	"Forma.h"
+
+1791912085 c:\users\26938\documents\t1-g28-main\forma.h
+
+1791916245 source:c:\users\26938\documents\t1-g28-main\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Forma.h"
+
