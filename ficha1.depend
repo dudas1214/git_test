@@ -27,3 +27,19 @@
 	<time.h>
 	"Forma.h"
 
+1792069508 source:c:\users\dudas\documents\git_test-main\forma.c
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"Forma.h"
+
+1792008622 c:\users\dudas\documents\git_test-main\forma.h
+
+1792069709 source:c:\users\dudas\documents\git_test-main\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"Forma.h"
+

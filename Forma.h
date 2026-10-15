@@ -5,7 +5,8 @@
         RECTANGLE,
         TRIANGLE,
         LINE,
-        SQUARE
+        SQUARE,
+        CIRCLE
         }Tipo;
 
         typedef struct{
